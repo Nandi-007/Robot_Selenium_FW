@@ -1,3 +1,5 @@
 selenium
 robotframework
+robotframework-pythonlibcore
 robotframework-selenium2library
+robotframework-seleniumlibrary
